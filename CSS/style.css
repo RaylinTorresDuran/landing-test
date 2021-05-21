@@ -118,6 +118,11 @@ body {
       width: 140px;
     }
 
+    .video {
+      height: 400px;
+      width: 440px;
+    }
+
     .header-content .text {
       display: none;
 
